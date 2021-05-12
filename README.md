@@ -24,4 +24,4 @@ Thanks for dropping by!
 
 Github Profile of Mods:
 - Yagnesh: [@yagneshlp](https://github.com/yagneshlp)
-- Hameed: [@hameedibrh](httpa://github.com/hameedibrh)
+- Hameed: [@hameedibrh](https://github.com/hameedibrh)
