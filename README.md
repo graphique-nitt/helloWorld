@@ -16,7 +16,7 @@ Meanwhile we will be publishing some of our experiments as public repos, for any
 
 If you have any bug reports to make or any issue sto raise, you can create an issue in this repo and the mods will get working on it! 
 
-The codebase is currently managed by [Yagnesh](https://yagneshlp.me) and [Hameed](https://hameedibrh.com). Contact them if you have any particular requests/issues or if you wanna apprecite their work ;)
+The codebase is currently managed by [Priyanshu](https://asthana001.me/), [Yagnesh](https://yagneshlp.me) and [Hameed](https://hameedibrh.com). Contact them if you have any particular requests/issues or if you wanna apprecite their work ;)
 
 Thanks for dropping by! 
 
@@ -25,3 +25,4 @@ Thanks for dropping by!
 Github Profile of Mods:
 - Yagnesh: [@yagneshlp](https://github.com/yagneshlp)
 - Hameed: [@hameedibrh](https://github.com/hameedibrh)
+- Priyanshu: [@asthana001](https://github.com/asthana001)
